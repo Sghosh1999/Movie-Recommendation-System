@@ -37,9 +37,9 @@ This is a movie recommendation System .
 - The search results are fetching from **Google Search API ( rapid API)** . So **search resposnses may differ** in each API call.
 - **Refresh the App to get your desired results**, if first time you didn't get the accurate results.
 
-|                                                   Examples                                                   |                                                   Examples                                                   |
-| :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| ![](https://github.com/Sghosh1999/fuzzy_search/blob/1aa1e4c0bfc233828c1f69b69366713d542f1ea4/images/ex1.jpg) | ![](https://github.com/Sghosh1999/fuzzy_search/blob/1aa1e4c0bfc233828c1f69b69366713d542f1ea4/images/ex2.jpg) |
+|                                        Examples                                        |                                        Examples                                        |
+| :------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+| ![](https://github.com/Sghosh1999/Movie-Recommendation-System/blob/main/demo/img1.JPG) | ![](https://github.com/Sghosh1999/Movie-Recommendation-System/blob/main/demo/img2.JPG) |
 
 ---
 
@@ -48,7 +48,7 @@ This is a movie recommendation System .
 ### Application Demo
 
 <p align="center">
-  <img src="https://github.com/Sghosh1999/fuzzy_search/blob/499749530b2f3c0d13e37c0c8587011ebe0a67db/images/fuzzy_demo.gif" alt="animated" />
+  <img src="https://github.com/Sghosh1999/Movie-Recommendation-System/blob/main/demo/recommendation.gif" alt="animated" />
 </p>
 
 # Steps :heart_eyes:
@@ -57,14 +57,6 @@ This is a movie recommendation System .
 - Step 2: Calculating Word frequency ofeach words in the Bag Of Words.
 - Step 3: Calculating the Stop Index.
 - Step 4: Finalizing the results.
-
-<a name="form1"/>
-
-<p align="center">
-  <img src="https://github.com/Sghosh1999/fuzzy_search/blob/7ab472ecfd877f8a3fb11ebeadd7fa68809bf7e9/images/screen3.PNG" alt="formula" />
-</p>
-
----
 
 ## Built With
 
