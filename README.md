@@ -125,5 +125,3 @@ python -m streamlit run app.py
 ```
 
 - For the first time it will ask you for the email. Please provide the email and the application will be open in your browser.
-
-### Built with :heart: by Team 8 ( Droid )
